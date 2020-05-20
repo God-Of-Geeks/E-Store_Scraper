@@ -1,0 +1,27 @@
+Server: Apache-Coyote/1.1
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+P3P: policyref="http://www.snapdeal.com/w3c/p3p.xml", CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT";HttpOnly
+Pragma: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=16070400; includeSubDomains
+X-Akamai-Transformed: 9 - 0 pmb=mRUM,2
+Cache-Control: no-cache, no-store
+Expires: Tue, 10 Dec 2019 05:31:52 GMT
+Date: Tue, 10 Dec 2019 05:31:52 GMT
+Set-Cookie: SCOUTER=z55tk2qqld00f5; Expires=Sun, 28-Dec-2087 08:45:59 GMT
+Set-Cookie: JSESSIONID=08D0436353F76E6EBC4D4FD5BBB4988A; Path=/; Secure; HttpOnly
+Set-Cookie: u=157595591223099962; Domain=.snapdeal.com; Expires=Sun, 28-Dec-2087 08:45:59 GMT; Path=/
+Set-Cookie: sd.zone=Z3; Domain=.snapdeal.com; Expires=Thu, 09-Jan-2020 05:31:52 GMT; Path=/
+Set-Cookie: xg=eyJzYyI6eyJzaGlwcGluZ19pbnRlcnZhbCI6Ijk4cF8xIn0sInVpZCI6eyJndWlkIjoiZTAyNDM2NTItZjM5OS00OGFkLWE3YzItNWU4YjIwOGY3MTAyIn19fHwxNTc1OTU3NzEyMjMz; Domain=.snapdeal.com; Expires=Tue, 10-Dec-2019 06:01:52 GMT; Path=/
+Set-Cookie: xc=eyJzYyI6eyJzaGlwcGluZ19pbnRlcnZhbCI6Ijk4cF8xIn19; Domain=.snapdeal.com; Expires=Tue, 10-Dec-2019 06:01:52 GMT; Path=/
+Set-Cookie: Megatron=!b6ET+CyFj9ehk7Hg5arPhFLN7hk5jvr6lY8DFlbCyh5nlmP0mRKp0hzmUEN/8BoqtPYiz9ERLmIFaZc=; path=/; Httponly; Secure
+Set-Cookie: alps=sgpt; expires=Mon, 16-Dec-2019 05:31:52 GMT; path=/; domain=.snapdeal.com
+Server-Timing: cdn-cache; desc=REVALIDATE
+Server-Timing: edge; dur=150
+Server-Timing: origin; dur=252

@@ -1,0 +1,18 @@
+Server: Apache-Coyote/1.1
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+P3P: policyref="http://www.snapdeal.com/w3c/p3p.xml", CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT";HttpOnly
+Pragma: no-cache
+Last-Modified: Wed, 04 Dec 2019 06:30:00 GMT
+Content-Type: text/plain
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=16070400; includeSubDomains
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: no-cache, no-store
+Expires: Tue, 10 Dec 2019 05:31:06 GMT
+Date: Tue, 10 Dec 2019 05:31:06 GMT
+Set-Cookie: bot=true; path=/; domain=.snapdeal.com
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=36
