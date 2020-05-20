@@ -20,4 +20,8 @@ python db.py //to generate the database files
 To see scrapy documentation visit:
 https://docs.scrapy.org/en/latest/#
 
+# Contribution
 
+Pull requests are welcome.
+<br>For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
